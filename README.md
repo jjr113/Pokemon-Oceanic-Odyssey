@@ -1,8 +1,8 @@
 # Pokemon Burning Leaf
 # Table of Contents
 1. [Concept](#concept)
-2. [Experience Goals and Motivation](#experience goals and motivation)
-3. [Background and History](#background and history)
+2. [Experience Goals and Motivation](#experience-goals-and-motivation)
+3. [Background and History](#background-and-history)
 4. [Installation](#installation)
 
 ## Concept
