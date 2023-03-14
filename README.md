@@ -1,12 +1,14 @@
 # Pokemon Burning Leaf
 # Table of Contents
-1. [Concept](#concept)
-2. [Experience Goals and Motivation](#experience-goals-and-motivation)
-3. [Background and History](#background-and-history)
-4. [Installation](#installation)
-5. [Update Log](#update-log)
-6. [Team](#team)
-7. [Copyright Information](#copyright-information)
+1. [Introduction](#introduction)
+2. [Concept](#concept)
+3. [Experience Goals and Motivation](#experience-goals-and-motivation)
+4. [Background and History](#background-and-history)
+5. [Installation](#installation)
+6. [Update Log](#update-log)
+7. [Team](#team)
+8. [Copyright Information](#copyright-information)
+## Introduction
 
 ## Concept
 Pokémon fangame inspired by classic titles like Pokémon Fire Red and Leaf Green. Redesigning locations, emulating new storylines, and other aspects of the classic games are all part of this varied approach.
