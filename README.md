@@ -21,6 +21,7 @@ A role-playing game in which the player assembles a small team of Pokémon to co
 ![1](https://user-images.githubusercontent.com/91906368/225101651-25a36ea5-541d-4750-9935-a006390e30cd.png)
 2. Click Download Zip
 ![2](https://user-images.githubusercontent.com/91906368/225102161-723d4e82-13c4-4f59-96b5-368003f36385.png)
+3. 
 ## Update Log
 ...Still need to publish first version...
 ## Team
