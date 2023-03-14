@@ -17,9 +17,9 @@ A role-playing game in which the player assembles a small team of Pokémon to co
 2. Click Download Zip
 ## Team
 ### Jakob Ross
-19rossj@gmail.com
-Game Developer
-University of Pittsburgh
-School of Computing and Information Sciences
-[Linkedin](https://www.linkedin.com/in/jakob-ross/)
+* 19rossj@gmail.com
+* Game Developer
+* University of Pittsburgh
+* School of Computing and Information Sciences
+* [Linkedin](https://www.linkedin.com/in/jakob-ross/)
 ### Stefano Brigoli
