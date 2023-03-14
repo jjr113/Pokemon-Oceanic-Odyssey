@@ -18,9 +18,9 @@ The player will be introduced to new features in this game as well as an intrigu
 A role-playing game in which the player assembles a small team of Pokémon to compete against other Pokémon. The kinds of Pokémon, such as water and fire, each have unique capabilities. The world of this game has Pokemon from generations 1-5. Battles between them are comparable to the straightforward hand game. rock-paper-scissors, with a exponential growth of difficulty as the player progresses through the story.
 ## Installation
 1. Go to the top of this page and click on the green "Code" button
-![1](https://user-images.githubusercontent.com/91906368/225101651-25a36ea5-541d-4750-9935-a006390e30cd.png)
+* ![1](https://user-images.githubusercontent.com/91906368/225101651-25a36ea5-541d-4750-9935-a006390e30cd.png)
 2. Click Download Zip
-![2](https://user-images.githubusercontent.com/91906368/225102161-723d4e82-13c4-4f59-96b5-368003f36385.png)
+* ![2](https://user-images.githubusercontent.com/91906368/225102161-723d4e82-13c4-4f59-96b5-368003f36385.png)
 ## Update Log
 ...Still need to publish first version...
 ## Team
