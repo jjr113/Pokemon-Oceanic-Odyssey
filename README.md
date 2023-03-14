@@ -4,6 +4,7 @@
 2. [Experience Goals and Motivation](#experience-goals-and-motivation)
 3. [Background and History](#background-and-history)
 4. [Installation](#installation)
+5. [Team])(#team)
 
 ## Concept
 Pokémon fangame inspired by classic titles like Pokémon Fire Red and Leaf Green. Redesigning locations, emulating new storylines, and other aspects of the classic games are all part of this varied approach.
@@ -14,3 +15,4 @@ A role-playing game in which the player assembles a small team of Pokémon to co
 ## Installation
 1. Go to the top of this page and click on the green "Code" button
 2. Click Download Zip
+## Team
