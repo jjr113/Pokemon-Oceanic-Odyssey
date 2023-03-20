@@ -35,6 +35,8 @@ A role-playing game in which the player assembles a small team of Pokémon to co
 ### Stefano Brigoli
 * stefanobrigoli@gmail.com
 ### Colin Ruggieri
+* colinruggieri19@gmail.com
+* Game Tester/Designer
 ## Tools Used
 
 ## Copyright Information
