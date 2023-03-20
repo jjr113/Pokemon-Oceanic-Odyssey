@@ -7,7 +7,8 @@
 5. [Installation](#installation)
 6. [Update Log](#update-log)
 7. [Team](#team)
-8. [Copyright Information](#copyright-information)
+8. [Tools Used](#tools-used)
+9. [Copyright Information](#copyright-information)
 ## Introduction
 
 ## Concept
@@ -34,5 +35,7 @@ A role-playing game in which the player assembles a small team of Pokémon to co
 ### Stefano Brigoli
 * stefanobrigoli@gmail.com
 ### Colin Ruggieri
+## Tools Used
+
 ## Copyright Information
 The intention of this game is for a portfolio/experience builder in game development. Our team DOES NOT own any rights to fully publish this game and we DO NOT intend on making any profit off of this title. Happy gaming! :)
