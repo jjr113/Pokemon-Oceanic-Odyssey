@@ -32,5 +32,7 @@ A role-playing game in which the player assembles a small team of Pokémon to co
 * Pitt CS, 23
 * [Linkedin](https://www.linkedin.com/in/jakob-ross/)
 ### Stefano Brigoli
+* stefanobrigoli@gmail.com
+### Colin Ruggieri
 ## Copyright Information
 The intention of this game is for a portfolio/experience builder in game development. Our team DOES NOT own any rights to fully publish this game and we DO NOT intend on making any profit off of this title. Happy gaming! :)
