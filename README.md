@@ -21,7 +21,7 @@ A role-playing game in which the player assembles a small team of Pokémon to co
 ![1](https://user-images.githubusercontent.com/91906368/225101651-25a36ea5-541d-4750-9935-a006390e30cd.png)
 2. Click Download ZIP<br />
 ![2](https://user-images.githubusercontent.com/91906368/225102161-723d4e82-13c4-4f59-96b5-368003f36385.png)<br />
-[![3]({})](installationtut.mp4} "Installation Tutorial")
+https://user-images.githubusercontent.com/91906368/226247585-5d0a0eb2-829e-4507-9bfa-2d8bb367d6db.mp4
 3. Wait for download to finish and extract the ZIP to your desired location
 4. Open folder for Pokemon Game and click on the .exe file to play!
 ## Update Log
