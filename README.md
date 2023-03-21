@@ -29,12 +29,12 @@ A role-playing game in which the player assembles a small team of Pokémon to co
 ## Team
 ### Jakob Ross
 * 19rossj@gmail.com
-* Game Developer, Game Producer
+* Lead Game Developer, Game Producer
 * Pitt CS, 23
 * [Linkedin](https://www.linkedin.com/in/jakob-ross/)
 ### Stefano Brigoli
 * stefanobrigoli@gmail.com
-* Game Designer, Game Artist, Game Tester
+* Lead Game Artist, Game Designer, Game Tester
 ### Colin Ruggieri
 * colinruggieri19@gmail.com
 * Game Designer, Game Tester
