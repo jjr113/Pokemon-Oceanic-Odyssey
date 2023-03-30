@@ -18,15 +18,15 @@ The player will be introduced to new features in this game as well as an intrigu
 ## Background and History
 A role-playing game in which the player assembles a small team of Pokémon to compete against other Pokémon. The kinds of Pokémon, such as water and fire, each have unique capabilities. The world of this game has Pokemon from generations 1-5. Battles between them are comparable to the straightforward hand game. rock-paper-scissors, with a exponential growth of difficulty as the player progresses through the story.
 ## Installation
-###Base Download
+### Base Download
 1. Go to the top of this page and click on the green "Code" button<br />
 ![1](https://user-images.githubusercontent.com/91906368/225101651-25a36ea5-541d-4750-9935-a006390e30cd.png)
 2. Click Download ZIP<br />
 ![2](https://user-images.githubusercontent.com/91906368/225102161-723d4e82-13c4-4f59-96b5-368003f36385.png)<br />
 3. Wait for download to finish and extract the ZIP to your desired location
 4. Open folder for Pokemon Game and click on the .exe file to play!
-###Windows
-###Mac
+### Windows
+### Mac
 Here are the steps to download and use Wine on Mac:
 <br><br>
 1. Visit the official Wine website at https://www.winehq.org/.
