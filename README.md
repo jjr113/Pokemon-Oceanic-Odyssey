@@ -25,8 +25,10 @@ A role-playing game in which the player assembles a small team of Pokémon to co
 ![2](https://user-images.githubusercontent.com/91906368/225102161-723d4e82-13c4-4f59-96b5-368003f36385.png)<br />
 3. Wait for download to finish and extract the ZIP to your desired location
 4. Open folder for Pokemon Game and click on the .exe file to play!
-### Windows
-### Mac
+### Run on Windows
+Just go to the file destination and run! Windows OS has .exe executable functionality.
+### Run on Mac
+You will need to use Wine on Mac in order to run .exe files...<br><br>
 Here are the steps to download and use Wine on Mac:
 <br><br>
 1. Visit the official Wine website at https://www.winehq.org/.
