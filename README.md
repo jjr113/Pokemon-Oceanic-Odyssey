@@ -32,7 +32,7 @@ You will need to use Wine on Mac in order to run .exe files...<br><br>
 Here are the steps to download and use Wine on Mac:
 <br><br>
 1. Visit the official Wine website at https://www.winehq.org/.
-2. Click on the "Download" tab on the top menu bar.
+2. Click on the "Download" tab on the main menu bar on the home screen.
 3. Select "macOS" from the list of operating systems.
 4. Click on the link for the latest version of Wine for macOS.
 5. Wait for the download to complete.
