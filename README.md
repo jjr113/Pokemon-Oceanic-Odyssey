@@ -16,7 +16,7 @@ Pokémon fangame inspired by classic titles like Pokémon Fire Red and Leaf Gree
 ## Experience Goals and Motivation
 The player will be introduced to new features in this game as well as an intriguing storyline that fits well with the Pokémon universe. Once the introduction is through, the player will see bigger region-type maps with smaller important locations rather than the usual small to medium-scaled counterparts. The player will also meet a variety of Pokémon from several different generations as they progress through the plot with updated features and enhanced updates to the classic titles.
 ## Background and History
-A role-playing game in which the player assembles a small team of Pokémon to compete against other Pokémon. The kinds of Pokémon, such as water and fire, each have unique capabilities. The world of this game has Pokemon from generations 1-5. Battles between them are comparable to the straightforward hand game. rock-paper-scissors, with a exponential growth of difficulty as the player progresses through the story.
+A role-playing game in which the player assembles a small team of Pokémon to compete against other Pokémon. The kinds of Pokémon, such as water and fire, each have unique capabilities. The world of this game has Pokemon from generations 1-7. Battles between them are comparable to the straightforward hand game. rock-paper-scissors, with a exponential growth of difficulty as the player progresses through the story.
 ## Installation
 ### Base Download
 1. Go to the top of this page and click on the green "Code" button<br />
