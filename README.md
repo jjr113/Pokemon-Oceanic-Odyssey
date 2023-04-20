@@ -84,6 +84,7 @@ Here's an example of how to create a dropdown with images in Markdown:
   <img id="img-2" src="https://example.com/image-2.png">
   <img id="img-3" src="https://example.com/image-3.png">
 </div>
+```css
 #img-container {
   display: none;
 }
