@@ -9,6 +9,7 @@
 7. [Team](#team)
 8. [Tools Used](#tools-used)
 9. [Copyright Information](#copyright-information)
+10. [Screenshots](#screenshots)
 ## Introduction
 
 ## Concept
@@ -42,6 +43,8 @@ Here are the steps to download and use Wine on Mac:
 9. Once the installation is complete, you can use Wine to run Windows applications on your Mac.
 10. To run a .exe file using Wine, simply right-click on the file and select "Open With" -> "Wine". The application should launch in a Windows environment.<br><br>
 Note: Wine is not guaranteed to work with all Windows applications, and some applications may not run as smoothly as they would on a Windows computer. Additionally, Wine may require some technical knowledge to configure correctly, so be sure to consult the Wine documentation if you encounter any issues.
+## Screenshots
+![image](https://user-images.githubusercontent.com/91906368/233267524-4901a4fc-4c1c-4b25-9b84-d4994bf1150f.png)
 ## Update Log
 ...Still need to publish first version...
 ## Team
