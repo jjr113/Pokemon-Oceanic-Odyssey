@@ -9,7 +9,6 @@
 7. [Team](#team)
 8. [Tools Used](#tools-used)
 9. [Copyright Information](#copyright-information)
-10. [Screenshots](#screenshots)
 ## Introduction
 
 ## Concept
@@ -68,52 +67,3 @@ Note: Wine is not guaranteed to work with all Windows applications, and some app
 * 
 ## Copyright Information
 The intention of this game is for a portfolio/experience builder in game development. Our team DOES NOT own any rights to fully publish this game and we DO NOT intend on making any profit off of this title. Happy gaming! :)
-## Screenshots
-Here's an example of how to create a dropdown with images in Markdown:
-
-```html
-<select>
-  <option value="">Choose an option</option>
-  <option value="1">Option 1</option>
-  <option value="2">Option 2</option>
-  <option value="3">Option 3</option>
-</select>
-
-<div id="img-container">
-  <img id="img-1" src="https://example.com/image-1.png">
-  <img id="img-2" src="https://example.com/image-2.png">
-  <img id="img-3" src="https://example.com/image-3.png">
-</div>
-```css
-#img-container {
-  display: none;
-}
-
-#img-1 {
-  display: none;
-}
-
-#img-2 {
-  display: none;
-}
-
-#img-3 {
-  display: none;
-}
-
-select:focus + #img-container {
-  display: block;
-}
-
-select[value="1"]:focus + #img-container #img-1 {
-  display: block;
-}
-
-select[value="2"]:focus + #img-container #img-2 {
-  display: block;
-}
-
-select[value="3"]:focus + #img-container #img-3 {
-  display: block;
-}
-
