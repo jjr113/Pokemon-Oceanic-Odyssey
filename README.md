@@ -48,7 +48,7 @@ Note: Wine is not guaranteed to work with all Windows applications, and some app
 <summary>How do I dropdown?</summary>
 <br>
 This is how you dropdown.
-</details>
+</details><br>
 ## Update Log
 ...Still need to publish first version...
 ## Team
