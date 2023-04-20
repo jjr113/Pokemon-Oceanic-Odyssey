@@ -70,7 +70,7 @@ Note: Wine is not guaranteed to work with all Windows applications, and some app
 The intention of this game is for a portfolio/experience builder in game development. Our team DOES NOT own any rights to fully publish this game and we DO NOT intend on making any profit off of this title. Happy gaming! :)
 ## Screenshots
 <details>
-<summary>How do I dropdown?</summary>
+<summary>Click Here</summary>
 <br>
-This is how you dropdown.
+![image](https://user-images.githubusercontent.com/91906368/233268704-e8ef45c9-2d0c-4452-9f32-9e1cdca150c1.png)
 </details><br>
