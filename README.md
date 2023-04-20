@@ -46,8 +46,7 @@ Note: Wine is not guaranteed to work with all Windows applications, and some app
 ## Screenshots
 <details>
 <summary>Click Here</summary>
-<br>
-![image](https://user-images.githubusercontent.com/91906368/233267691-59acb921-4b87-4982-a512-9bf5994793a3.png)
+<br>![image](https://user-images.githubusercontent.com/91906368/233267691-59acb921-4b87-4982-a512-9bf5994793a3.png)
 </details>
 ## Update Log
 ...Still need to publish first version...
