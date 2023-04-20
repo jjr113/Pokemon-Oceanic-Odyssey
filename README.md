@@ -43,12 +43,6 @@ Here are the steps to download and use Wine on Mac:
 9. Once the installation is complete, you can use Wine to run Windows applications on your Mac.
 10. To run a .exe file using Wine, simply right-click on the file and select "Open With" -> "Wine". The application should launch in a Windows environment.<br><br>
 Note: Wine is not guaranteed to work with all Windows applications, and some applications may not run as smoothly as they would on a Windows computer. Additionally, Wine may require some technical knowledge to configure correctly, so be sure to consult the Wine documentation if you encounter any issues.
-## Screenshots
-<details>
-<summary>How do I dropdown?</summary>
-<br>
-This is how you dropdown.
-</details><br>
 ## Update Log
 ...Still need to publish first version...
 ## Team
@@ -74,3 +68,9 @@ This is how you dropdown.
 * 
 ## Copyright Information
 The intention of this game is for a portfolio/experience builder in game development. Our team DOES NOT own any rights to fully publish this game and we DO NOT intend on making any profit off of this title. Happy gaming! :)
+## Screenshots
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details><br>
