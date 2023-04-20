@@ -45,8 +45,9 @@ Here are the steps to download and use Wine on Mac:
 Note: Wine is not guaranteed to work with all Windows applications, and some applications may not run as smoothly as they would on a Windows computer. Additionally, Wine may require some technical knowledge to configure correctly, so be sure to consult the Wine documentation if you encounter any issues.
 ## Screenshots
 <details>
-<summary>Click Here</summary>
+<summary>How do I dropdown?</summary>
 <br>
+This is how you dropdown.
 </details>
 ## Update Log
 ...Still need to publish first version...
