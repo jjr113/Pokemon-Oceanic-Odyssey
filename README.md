@@ -67,4 +67,5 @@ Note: Wine is not guaranteed to work with all Windows applications, and some app
 * 
 ## Copyright Information
 The intention of this game is for a portfolio/experience builder in game development. Our team DOES NOT own any rights to fully publish this game and we DO NOT intend on making any profit off of this title. Happy gaming! :)
-|![image](https://user-images.githubusercontent.com/91906368/233269924-50b9f2a4-429b-413d-99d1-a6fb9527489a.png)||
+|![image](https://user-images.githubusercontent.com/91906368/233269924-50b9f2a4-429b-413d-99d1-a6fb9527489a.png)|![image](https://user-images.githubusercontent.com/91906368/233270110-c56c2270-a30e-41e8-9c13-988df2f148a9.png)
+|
