@@ -156,7 +156,6 @@ Name = Wrecked intro
 Outdoor = true
 ShowArea = true
 Bicycle = false
-Weather = Fog,100
 #-------------------------------
 [034]   # Ice Cave
 Name = Route 3
@@ -215,7 +214,6 @@ MapSize = 1,111
 Name = Wrecked intro
 Outdoor = true
 ShowArea = true
-Weather = Fog,100
 BattleBack = 
 Environment = Grass
 #-------------------------------
