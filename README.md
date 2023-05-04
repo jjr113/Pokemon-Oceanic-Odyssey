@@ -1,4 +1,4 @@
-# Pokemon Burning Leaf
+# Pokémon Oceanic Odyssey
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Concept](#concept)
