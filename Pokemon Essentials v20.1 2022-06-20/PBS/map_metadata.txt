@@ -151,11 +151,10 @@ MapPosition = 0,14,6
 BattleBack = field
 MapSize = 2,1101
 #-------------------------------
-[033]   # Wrecked intro
-Name = Wrecked intro
+[033]   # First Town
+Name = First Town
 Outdoor = true
 ShowArea = true
-Bicycle = false
 #-------------------------------
 [034]   # Ice Cave
 Name = Route 3
@@ -210,11 +209,10 @@ BicycleAlways = true
 MapPosition = 0,11,7
 MapSize = 1,111
 #-------------------------------
-[043]   # Wrecked intro
-Name = Wrecked intro
+[043]   # Wrecked Beach
+Name = Wrecked Beach
 Outdoor = true
 ShowArea = true
-BattleBack = 
 Environment = Grass
 #-------------------------------
 [044]   # Route 6
@@ -246,6 +244,11 @@ MapPosition = 0,15,10
 BattleBack = rocky
 MapSize = 2,11
 Environment = Rock
+#-------------------------------
+[048]   # Boating Dock
+Name = Boating Dock
+Outdoor = true
+ShowArea = true
 #-------------------------------
 [049]   # Rock Cave 1F
 Name = Route 7
@@ -408,3 +411,13 @@ Name = Tiall Region
 Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
+#-------------------------------
+[077]   # MAP077
+Name = MAP077
+Outdoor = true
+Bicycle = true
+#-------------------------------
+[079]   # Gateway
+Name = Gateway
+Outdoor = false
+Bicycle = false
