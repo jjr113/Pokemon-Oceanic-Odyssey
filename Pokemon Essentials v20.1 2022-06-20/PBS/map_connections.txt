@@ -38,15 +38,19 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Route 1 (80) - First Town (33)
-80,East,14,33,West,0
-# Wrecked Beach (43) - First Town (33)
-43,North,0,33,South,0
-# Boating Dock (48) - First Town (33)
-48,West,0,33,East,7
+# First Town (33) - Route 1 (80)
+33,West,0,80,East,14
 # Wrecked Beach (43) - Route 1 (80)
 43,West,0,80,East,70
 # Beach (79) - Route 1 (80)
 79,East,0,80,West,10
+# MAP083 (83) - Route 1 (80)
+83,South,0,80,North,0
+# Wrecked Beach (43) - First Town (33)
+43,North,0,33,South,0
+# Boating Dock (48) - First Town (33)
+48,West,0,33,East,7
 # Beach (79) - Wrecked Beach (43)
 79,South,72,43,North,0
+# MAP083 (83) - Beach (79)
+83,West,70,79,East,0

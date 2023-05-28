@@ -412,15 +412,17 @@ Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
 #-------------------------------
-[077]   # Gateway Outside
+[077]   # Gateway
 Name = MAP077
 Outdoor = true
 Bicycle = true
 #-------------------------------
-[079]   # Gateway
-Name = Gateway
-Outdoor = false
+[079]   # Beach
+Name = Beach
+Outdoor = true
+ShowArea = true
 Bicycle = false
+Weather = Sun,10
 #-------------------------------
 [080]   # Route 1
 Name = Route 1
@@ -429,3 +431,11 @@ ShowArea = true
 Bicycle = true
 BicycleAlways = false
 Weather = Rain,10
+#-------------------------------
+[083]   # Forest
+Name = Forest
+Outdoor = true
+ShowArea = true
+Bicycle = false
+BattleBack = forest
+Environment = Forest
