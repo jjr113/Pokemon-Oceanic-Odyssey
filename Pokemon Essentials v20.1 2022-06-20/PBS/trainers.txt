@@ -116,3 +116,18 @@ Pokemon = CHARIZARD,63
     Item = SITRUSBERRY
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
+#-------------------------------
+[YOUNGSTER,Tino]
+LoseText = Ugh, this is so unfair! I hate losing, and I'm gonna make sure I beat you next time!
+Pokemon = GROWLITHE,5
+Pokemon = EEVEE,5
+#-------------------------------
+[SUPERNERD,Beni]
+LoseText = Impressive! I'll keep learning and improving to match your Pokémon expertise.
+Pokemon = SEEDOT,5
+Pokemon = MAGNEMITE,5
+#-------------------------------
+[POKEMONRANGER_F,Jen]
+LoseText = Your bond with your Pokémon is amazing. I'll strive to be a better Pokémon Trainer too!
+Pokemon = STARLY,5
+Pokemon = WOOPER,5
