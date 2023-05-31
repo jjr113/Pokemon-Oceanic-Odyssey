@@ -34,6 +34,20 @@ LandNight,21
     25,ZIGZAGOON,4,5
     15,GASTLY,3,6
 #-------------------------------
+[048] # Boating Dock
+Land,21    
+    35,BIDOOF,3,5
+    30,BELLSPROUT,3,5
+    30,SPEAROW,3,5
+    30,STARLY,3,5
+    25,KRABBY,3,5
+    20,PIDGEY,3,5
+    20,WOOPER,3,6
+    15,ELECTRIKE,3,6
+    10,ABRA,3,6
+    10,SANDSHREW,5,7
+    5,EEVEE,6,7
+#-------------------------------
 [079] # Beach
 Land,21
     35,BIDOOF,3,5
@@ -74,3 +88,5 @@ LandNight,21
     15,GASTLY,3,6
     10,GROWLITHE,5,7
     5,RIOLU,6,7
+#-------------------------------
+[083] # Forest
