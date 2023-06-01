@@ -3,26 +3,24 @@
 [001]   # Intro
 Name = Intro
 #-------------------------------
-[033]   # First Town
-Name = First Town
+[033]   # Mistybrook Town
+Name = Mistybrook Town
 Outdoor = true
 ShowArea = true
 BattleBack = city
 Environment = Grass
 #-------------------------------
-[043]   # Wrecked Beach
-Name = Wrecked Beach
+[043]   # Mistybrook Cove
+Name = Mistybrook Cove
 Outdoor = true
 ShowArea = true
-Weather = Sun,10
 Environment = Grass
 #-------------------------------
-[079]   # Beach
-Name = Beach
+[079]   # Paradise Beach
+Name = Paradise Beach
 Outdoor = true
 ShowArea = true
 Bicycle = false
-Weather = Sun,10
 BattleBack = field
 Environment = Grass
 #-------------------------------
@@ -36,11 +34,11 @@ Weather = Rain,10
 BattleBack = field
 Environment = Grass
 #-------------------------------
-[083]   # Forest
-Name = Forest
+[083]   # Shadewoven Forest
+Name = Shadewoven Forest
 Outdoor = true
 ShowArea = true
 Bicycle = false
-Weather = Storm,20
+Weather = Storm,30
 BattleBack = forest
 Environment = Forest

@@ -1,6 +1,6 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-[033] # First Town
+[033] # Mistybrook Town
 Land,21
     35,SEEDOT,3,5
     30,BELLSPROUT,3,5
@@ -13,11 +13,21 @@ Land,21
     10,GROWLITHE,5,7
     5,RIOLU,6,7
 LandNight,21
+    35,SEEDOT,3,5
     30,HOOTHOOT,3,5
+    30,BELLSPROUT,3,5
+    30,SPEAROW,3,5
+    30,STARLY,3,5
+    25,POOCHYENA,3,5
     25,ZIGZAGOON,4,5
+    20,LILLIPUP,3,6
+    20,NIDORANfE,3,6
+    20,NIDORANmA,3,6
     15,GASTLY,3,6
+    10,GROWLITHE,5,7
+    5,RIOLU,6,7
 #-------------------------------
-[043] # Wrecked Beach
+[043] # Mistybrook Cove
 Land,21
     35,SEEDOT,3,5
     30,BELLSPROUT,3,5
@@ -30,25 +40,21 @@ Land,21
     10,GROWLITHE,5,7
     5,RIOLU,6,7
 LandNight,21
+    35,SEEDOT,3,5
     30,HOOTHOOT,3,5
-    25,ZIGZAGOON,4,5
-    15,GASTLY,3,6
-#-------------------------------
-[048] # Boating Dock
-Land,21    
-    35,BIDOOF,3,5
     30,BELLSPROUT,3,5
     30,SPEAROW,3,5
     30,STARLY,3,5
-    25,KRABBY,3,5
-    20,PIDGEY,3,5
-    20,WOOPER,3,6
-    15,ELECTRIKE,3,6
-    10,ABRA,3,6
-    10,SANDSHREW,5,7
-    5,EEVEE,6,7
+    25,POOCHYENA,3,5
+    25,ZIGZAGOON,4,5
+    20,LILLIPUP,3,6
+    20,NIDORANfE,3,6
+    20,NIDORANmA,3,6
+    15,GASTLY,3,6
+    10,GROWLITHE,5,7
+    5,RIOLU,6,7
 #-------------------------------
-[079] # Beach
+[048] # Larry's Boating Dock
 Land,21
     35,BIDOOF,3,5
     30,BELLSPROUT,3,5
@@ -56,11 +62,32 @@ Land,21
     30,STARLY,3,5
     25,KRABBY,3,5
     20,PIDGEY,3,5
-    20,WOOPER,3,6
     15,ELECTRIKE,3,6
     10,ABRA,3,6
     10,SANDSHREW,5,7
     5,EEVEE,6,7
+#-------------------------------
+[079] # Paradise Beach
+Land,21
+    35,BIDOOF,3,5
+    30,BELLSPROUT,3,5
+    30,SPEAROW,3,5
+    30,STARLY,3,5
+    25,KRABBY,3,5
+    20,PIDGEY,3,5
+    15,ELECTRIKE,3,6
+    10,ABRA,3,6
+    10,SANDSHREW,5,7
+    5,EEVEE,6,7
+#-------------------------------
+[079,1] # Paradise Beach
+Cave,5
+    25,WINGULL,3,5
+    20,SANDYGAST,3,5
+    18,SHELLDER,3,5
+    18,KRABBY,3,5
+    13,SANDSHREW,5,7
+    8,WOOPER,6,7
 #-------------------------------
 [080] # Route 1
 Land,21
@@ -89,4 +116,4 @@ LandNight,21
     10,GROWLITHE,5,7
     5,RIOLU,6,7
 #-------------------------------
-[083] # Forest
+[083] # Shadewoven Forest
