@@ -30,7 +30,6 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 BicycleAlways = false
-Weather = Rain,10
 BattleBack = field
 Environment = Grass
 #-------------------------------
@@ -39,6 +38,6 @@ Name = Shadewoven Forest
 Outdoor = true
 ShowArea = true
 Bicycle = false
-Weather = Storm,30
+Weather = Rain,100
 BattleBack = forest
 Environment = Forest

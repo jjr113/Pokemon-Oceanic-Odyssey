@@ -9,7 +9,7 @@ module LevelScalingSettings
   TRAINER_VARIABLE = 99
   WILD_VARIABLE = 100
 
-  AUTOMATIC_EVOLUTIONS = true
+  AUTOMATIC_EVOLUTIONS = false
   INCLUDE_PREVIOUS_STAGES = true # Reverts pokemon to previous evolution stages if they did not reach the evolution level
 
   # Trainer and wild pokemon that do not evolve by level automatically evolve in these levels instead
