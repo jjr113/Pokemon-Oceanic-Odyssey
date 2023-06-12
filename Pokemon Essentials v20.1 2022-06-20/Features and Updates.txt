@@ -1,0 +1,35 @@
+#===============================================================================
+# Features and Updates
+#===============================================================================
+
+1)  Zelda Strength - item to lift rocks [Zelda GBA Games]
+2)  Limit use of HM Items (x used in field before have to recharge or get a new supply)
+4)  Upgrade able Items
+    fx  Strength v1 Push or lift 1x1 tiles event
+        Strength v2 Push or lift 2x2 tiles event
+
+6)  Animation when using HM Items
+7)  Flashlight, alterative to flash | Make a Flash Light Animation
+8)  Items glow when active in bag, like from shop titan
+9)  Rock climb base when using Rock climb
+  a) Follow Pokémon when using Rock climb
+10) Make Rock climb horizontal
+11) Healing Item (Food??) or Resting Item (Tent) - (Campfire = Rest?)
+
+13) Port to v19
+15) Skip / Fast transition when using surf / rock climb ... (just walk in to it)
+16) :use_PP             => false              # Default: false (Only Works for Field Moves)
+17) Thief as field move?
+
+Done
+5)  Combine Items (Surf)
+12) Make Defog
+14) Weather Machine
+
+#===============================================================================
+# Other Pugin
+#===============================================================================
+1)  Make Stats Tack Screen
+  Basic Trainer Card Page
+  Setting Feature On/Off or own Menu
+  Own Menu in VPM or Modular Menu

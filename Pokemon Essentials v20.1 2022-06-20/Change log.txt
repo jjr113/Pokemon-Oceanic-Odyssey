@@ -1,0 +1,90 @@
+#===============================================================================
+# Change log
+#===============================================================================
+
+#===============================================================================
+# v1.1.3a
+#===============================================================================
+
+Change and test Weather Gadget
+  Now works as intended
+
+#===============================================================================
+# v1.1.3
+#===============================================================================
+
+Fixed Bug
+  with Weather Gadget not working
+  with Camouflage not working
+
+#===============================================================================
+# v1.1.2
+#===============================================================================
+
+Important ============================================================ Important
+  >>>   >>>   >>> This plugin now requires the Hotfixes 1.0.3 <<<   <<<   <<<
+Important ============================================================ Important
+
+Added
+  Merge Options to Surf items
+    So the Surf Item is handling the Dive, Waterfall and Whirlpool
+  Defog Items
+  Defog Field Move
+  Weather Gadget
+  Added Camouflage - From TechSkylander1518
+    Field move and Item
+
+Fixed
+  A spelling error in rock climb when using the item from the bag and fields
+  Added a missing end in 02_Terrain Tag
+  Removed some bugs
+
+Removed
+  Some unnecessary code for this update
+
+#===============================================================================
+# v1.1.1
+#===============================================================================
+
+Fixed Rockclimb
+  Item Rockclimb now works agian
+
+#===============================================================================
+# v1.1.0
+#===============================================================================
+
+Added
+  Animations to Rock Climb
+  Animations to Whirlpool
+  Items Icons
+  Sound for IceBarrier
+  Sound for Rock Climb [Reused for Rock Smash]
+  Rock Climb as field Moves  // this is Active if set to false
+  Whirlpool as field Moves   // this is Active if set to false
+  Whirlpool Graphics  [Autotile]
+    Remember to add TerrainTag to it when used
+  Rock Climb Graphics [for Tileset]
+    Remember to add TerrainTag to it when used
+  Ice Barrier Graphics [Characters]
+
+Fixed some bugs that the v19.1 had
+  You are now Dismounted from the Bicycle when using Rock Climb
+  Ice Smash is now having sound
+  Gamestats is now counting Ascend & Descend for Rock Climb
+
+Delete some unnecessary code
+
+Edit spelling error
+
+#===============================================================================
+# v1.0.0
+#===============================================================================
+
+Updated to v20.1
+
+Added
+  Support for Follow Pokémon
+  More Field Moves
+  One Custom
+
+Fixed some bugs that the v19.1 had
