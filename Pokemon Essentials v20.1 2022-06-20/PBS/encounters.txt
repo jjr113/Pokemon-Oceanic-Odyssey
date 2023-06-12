@@ -117,3 +117,27 @@ LandNight,21
     5,RIOLU,6,7
 #-------------------------------
 [083] # Shadewoven Forest
+Land,21
+    35,SEEDOT,3,5
+    30,BELLSPROUT,3,5
+    30,SPEAROW,3,5
+    30,STARLY,3,5
+    25,POOCHYENA,3,5
+    20,LILLIPUP,3,6
+    20,NIDORANfE,3,6
+    20,NIDORANmA,3,6
+    10,GROWLITHE,5,7
+    5,RIOLU,6,7
+#-------------------------------
+[083,1] # Shadewoven Forest
+Land,15
+    35,SEEDOT,3,5
+    30,BELLSPROUT,3,5
+    30,SPEAROW,3,5
+    30,STARLY,3,5
+    25,POOCHYENA,3,5
+    20,LILLIPUP,3,6
+    20,NIDORANfE,3,6
+    20,NIDORANmA,3,6
+    10,GROWLITHE,5,7
+    5,RIOLU,6,7
