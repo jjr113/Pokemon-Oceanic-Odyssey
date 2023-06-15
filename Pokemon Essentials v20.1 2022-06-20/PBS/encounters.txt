@@ -130,7 +130,7 @@ Land,21
     5,RIOLU,6,7
 #-------------------------------
 [083,1] # Shadewoven Forest
-Land,15
+Land,10
     35,SEEDOT,3,5
     30,BELLSPROUT,3,5
     30,SPEAROW,3,5
