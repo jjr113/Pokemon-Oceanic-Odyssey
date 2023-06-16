@@ -27,8 +27,8 @@ Flags = KeyItem
 Description = This can be used to push big objects.
 #-------------------------------------------------------------------------------
 [SURFITEM]
-Name = Flippers
-NamePlural = Flippers
+Name = Lapras
+NamePlural = Lapras
 Pocket = 8
 Price = 0
 FieldUse = Direct
