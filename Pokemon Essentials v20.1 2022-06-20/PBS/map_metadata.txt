@@ -41,3 +41,24 @@ Bicycle = false
 Weather = Rain,100
 BattleBack = forest
 Environment = Forest
+#-------------------------------
+[091]   # Ironforge Boating Dock
+Name = Ironforge Boating Dock
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[093]   # Ironforge Town
+Name = Ironforge Town
+Name = 
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[100]   # Captain Flint's Basement
+Name = Captain Flint's Basement
+ShowArea = true
+#-------------------------------
+[101]   # Captain Flint's
+Name = Captain Flint's
+Outdoor = false
+ShowArea = true

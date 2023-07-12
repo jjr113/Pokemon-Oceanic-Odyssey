@@ -55,4 +55,4 @@
 # Shadewoven Forest (83) - Route 1 (80)
 83,South,0,80,North,0
 # Ironforge Boating Dock (91) - Ironforge Town (93)
-91,North,0,93,South,16
+91,North,0,93,South,6
