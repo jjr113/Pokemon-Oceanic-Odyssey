@@ -59,10 +59,6 @@ Pokémon Oceanic Odyssey follows the control scheme of classic Pokémon games an
 - **F12**: If you encounter any issues or need to exit the game quickly, press F12 to close the game.
 
 Please note that some controls may change or have additional functionalities based on the game's progression and events. Pay attention to in-game prompts and tutorials to learn about new actions or features as you play through Pokémon Oceanic Odyssey.
-
-Remember, you can also customize the controls in the RPG Maker XP settings if you prefer a different key configuration.
-
-Enjoy your adventure in the vast world of Pokémon Oceanic Odyssey!
 ## Update Log
 ...Still need to publish first version...
 ## Team
