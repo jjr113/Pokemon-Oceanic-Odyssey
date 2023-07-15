@@ -10,6 +10,7 @@
 8. [Team](#team)
 9. [Tools Used](#tools-used)
 10. [Copyright Information](#copyright-information)
+11. [Screenshots](#screenshots)
 ## Introduction
 Welcome to Pokémon Oceanic Odyssey, a fan-made Pokémon fangame inspired by classic titles like Pokémon Fire Red and Leaf Green. Embark on an adventure to explore multiple islands with diverse themes and Pokémon, uncover hidden secrets, and become a Pokémon Master in this exciting new journey.
 ## Concept
