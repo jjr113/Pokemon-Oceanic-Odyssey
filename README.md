@@ -5,10 +5,11 @@
 3. [Experience Goals and Motivation](#experience-goals-and-motivation)
 4. [Background and History](#background-and-history)
 5. [Installation](#installation)
-6. [Update Log](#update-log)
-7. [Team](#team)
-8. [Tools Used](#tools-used)
-9. [Copyright Information](#copyright-information)
+6. [Controls](#controls)
+7. [Update Log](#update-log)
+8. [Team](#team)
+9. [Tools Used](#tools-used)
+10. [Copyright Information](#copyright-information)
 ## Introduction
 
 ## Concept
@@ -42,6 +43,26 @@ Here are the steps to download and use Wine on Mac:
 9. Once the installation is complete, you can use Wine to run Windows applications on your Mac.
 10. To run a .exe file using Wine, simply right-click on the file and select "Open With" -> "Wine". The application should launch in a Windows environment.<br><br>
 Note: Wine is not guaranteed to work with all Windows applications, and some applications may not run as smoothly as they would on a Windows computer. Additionally, Wine may require some technical knowledge to configure correctly, so be sure to consult the Wine documentation if you encounter any issues.
+## Controls
+Pokémon Oceanic Odyssey follows the control scheme of classic Pokémon games and is inspired by Pokémon Essentials and RPG Maker XP. Here are the basic controls for the game:
+
+- **Arrow Keys**: Use the arrow keys to move your character in the game world. Up to move north, down to move south, left to move west, and right to move east.
+
+- **Z or Enter**: Use the Z key or Enter key to interact with NPCs, objects, and to progress through dialogues.
+
+- **X or Esc**: Press the X key or Esc key to access the main menu, where you can manage your Pokémon, items, and other game options.
+
+- **C**: The C key is used for various actions, including running, surfing, and biking, depending on the context.
+
+- **Spacebar**: Press the Spacebar to access shortcuts or to speed up text during dialogues.
+
+- **F12**: If you encounter any issues or need to exit the game quickly, press F12 to close the game.
+
+Please note that some controls may change or have additional functionalities based on the game's progression and events. Pay attention to in-game prompts and tutorials to learn about new actions or features as you play through Pokémon Oceanic Odyssey.
+
+Remember, you can also customize the controls in the RPG Maker XP settings if you prefer a different key configuration.
+
+Enjoy your adventure in the vast world of Pokémon Oceanic Odyssey!
 ## Update Log
 ...Still need to publish first version...
 ## Team
