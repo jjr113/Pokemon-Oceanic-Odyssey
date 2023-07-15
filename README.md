@@ -11,9 +11,9 @@
 9. [Tools Used](#tools-used)
 10. [Copyright Information](#copyright-information)
 ## Introduction
-
-## Concept
 Welcome to Pokémon Oceanic Odyssey, a fan-made Pokémon fangame inspired by classic titles like Pokémon Fire Red and Leaf Green. Embark on an adventure to explore multiple islands with diverse themes and Pokémon, uncover hidden secrets, and become a Pokémon Master in this exciting new journey.
+## Concept
+In Pokémon Oceanic Odyssey, we've redesigned familiar locations and introduced new storylines, delivering a fresh experience while staying true to the Pokémon universe. The game features bigger region-type maps with smaller, important locations to create a rich and immersive world. As you progress through the captivating plot, you'll encounter a variety of Pokémon from generations 1-7, and experience updated features and enhancements from the classic titles.
 ## Experience Goals and Motivation
 The player will be introduced to new features in this game as well as an intriguing storyline that fits well with the Pokémon universe. Once the introduction is through, the player will see bigger region-type maps with smaller important locations rather than the usual small to medium-scaled counterparts. The player will also meet a variety of Pokémon from several different generations as they progress through the plot with updated features and enhanced updates to the classic titles.
 ## Background and History
