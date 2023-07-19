@@ -99,6 +99,7 @@ Please note that some controls may change or have additional functionalities bas
 ## Copyright Information
 The intention of this game is for a portfolio/experience builder in game development. Our team DOES NOT own any rights to fully publish this game and we DO NOT intend on making any profit off of this title. Happy gaming! :)
 ## Screenshots
+*NOTE: These screenshots are taken from the [Demo v1.01](#demo-v101) update*
 ![Screenshot 2023-07-18 233441](https://github.com/jjr113/Pokemon-Oceanic-Odyssey/assets/91906368/ad3ea096-e774-44ba-b920-3ca619081eb5)
 ![Screenshot 2023-07-18 233641](https://github.com/jjr113/Pokemon-Oceanic-Odyssey/assets/91906368/aa463d44-6a74-49a8-b955-c131067d841c)
 ![Screenshot 2023-07-18 234001](https://github.com/jjr113/Pokemon-Oceanic-Odyssey/assets/91906368/4e609b1e-e659-4761-a131-49a3741c2bda)
