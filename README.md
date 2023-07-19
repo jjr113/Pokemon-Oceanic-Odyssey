@@ -66,7 +66,6 @@ Please note that some controls may change or have additional functionalities bas
 * ### Demo v1.01
     * Available **(7/18/23)**
     * This demo includes the very first look into our game and the concept we are looking for. This concept includes navigating islands and interacting with a unique custom set of pokemon with diverse locations.
-    * Playable up until Shadewoven forest
     * INSTRUCTIONS TO PLAY:
         * Run the Game.exe
         * Start a new game
