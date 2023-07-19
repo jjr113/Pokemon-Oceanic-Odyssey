@@ -7,7 +7,7 @@
 5. [Installation](#installation)
 6. [Controls](#controls)
 7. [Update Log](#update-log)
-    8. [Demo v1.01](#demo-v1.01)
+    * [Demo v1.01](#demo-v101)
 9. [Team](#team)
 10. [Tools Used](#tools-used)
 11. [Copyright Information](#copyright-information)
