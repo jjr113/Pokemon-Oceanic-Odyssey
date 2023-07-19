@@ -62,9 +62,9 @@ Pokémon Oceanic Odyssey follows the control scheme of classic Pokémon games an
 Please note that some controls may change or have additional functionalities based on the game's progression and events. Pay attention to in-game prompts and tutorials to learn about new actions or features as you play through Pokémon Oceanic Odyssey.
 ## Update Log
 * Demo v1.01 available (7/18/23)
-- This demo includes the very first look into our game and the concept we are looking for. This concept includes navigating islands and interacting with a unique custom set of pokemon with diverse locations.
-- Playable up until Shadewoven forest
-- INSTRUCTIONS TO PLAY: Run the Game.exe, start a new game, and choose the "**Demo v1.01**" option.
+    * This demo includes the very first look into our game and the concept we are looking for. This concept includes navigating islands and interacting with a unique custom set of pokemon with diverse locations.
+    * Playable up until Shadewoven forest
+    * INSTRUCTIONS TO PLAY: Run the Game.exe, start a new game, and choose the "**Demo v1.01**" option.
 ## Team
 ### Jakob Ross
 * 19rossj@gmail.com
