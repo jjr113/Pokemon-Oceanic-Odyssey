@@ -20,15 +20,15 @@ In Pokémon Oceanic Odyssey, we've redesigned familiar locations and introduced 
 ## Experience Goals and Motivation
 Our goal is to introduce players to new and exciting features while presenting an intriguing storyline that fits perfectly within the Pokémon universe. The game offers a unique blend of classic gameplay and modern enhancements. Prepare to be captivated by the vast world of Pokémon Oceanic Odyssey!
 ## Background and History
-A role-playing game in which the player assembles a small team of Pokémon to compete against other Pokémon. The kinds of Pokémon, such as water and fire, each have unique capabilities. The world of this game has Pokemon from generations 1-7. Battles between them are comparable to the straightforward hand game. rock-paper-scissors, with a exponential growth of difficulty as the player progresses through the story.
+A role-playing game in which the player assembles a small team of Pokémon to compete against other Pokémon. The kinds of Pokémon, such as water and fire, each have unique capabilities. The world of this game has Pokemon from generations 1-7. Battles between them are comparable to the straightforward hand game. rock-paper-scissors, with exponential growth of difficulty as the player progresses through the story.
 ## Installation
 ### Base Download
 1. Go to the top of this page and click on the green "Code" button<br />
 ![1](https://user-images.githubusercontent.com/91906368/225101651-25a36ea5-541d-4750-9935-a006390e30cd.png)
 2. Click Download ZIP<br />
 ![2](https://user-images.githubusercontent.com/91906368/225102161-723d4e82-13c4-4f59-96b5-368003f36385.png)<br />
-3. Wait for download to finish and extract the ZIP to your desired location
-4. Open folder for Pokemon Game and click on the .exe file to play!
+3. Wait for the download to finish and extract the ZIP to your desired location
+4. Open the folder for Pokemon Game and click on the .exe file to play!
 ### Run on Windows
 Just go to the file destination and run the "Game.exe" file! Windows OS has .exe executable functionality.
 ### Run on Mac
@@ -65,7 +65,7 @@ Please note that some controls may change or have additional functionalities bas
 ## Update Log
 * ### Demo v1.01
     * Available **(7/18/23)**
-    * This demo includes the very first look into our game and the concept we are looking for. This concept includes navigating islands and interacting with a unique custom set of pokemon with diverse locations.
+    * This demo includes the very first look into our game and the concept we are looking for. This concept includes navigating islands and interacting with a unique custom set of Pokemon with diverse locations. Some parts of the game could be incomplete since the story of the game is under construction...
     * INSTRUCTIONS TO PLAY:
         * Run the Game.exe
         * Start a new game
