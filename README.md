@@ -68,6 +68,10 @@ Please note that some controls may change or have additional functionalities bas
         * Run the Game.exe
         * Start a new game
         * Choose the "**Demo v1.01**" option.
+    * Fixes/Update Notes:
+        * Map Connections
+        * Created/Finished First Island
+        * Playable up until Shadewoven Forest
 ## Team
 ### Jakob Ross
 * 19rossj@gmail.com
