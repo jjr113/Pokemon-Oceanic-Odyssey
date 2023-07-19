@@ -7,10 +7,11 @@
 5. [Installation](#installation)
 6. [Controls](#controls)
 7. [Update Log](#update-log)
-8. [Team](#team)
-9. [Tools Used](#tools-used)
-10. [Copyright Information](#copyright-information)
-11. [Screenshots](#screenshots)
+    8. [Demo v1.01](#demo-v1.01)
+9. [Team](#team)
+10. [Tools Used](#tools-used)
+11. [Copyright Information](#copyright-information)
+12. [Screenshots](#screenshots)
 ## Introduction
 Welcome to Pokémon Oceanic Odyssey, a fan-made Pokémon fangame inspired by classic titles like Pokémon Fire Red and Leaf Green. Embark on an adventure to explore multiple islands with diverse themes and Pokémon, uncover hidden secrets, and become a Pokémon Master in this exciting new journey.
 ## Concept
@@ -61,7 +62,8 @@ Pokémon Oceanic Odyssey follows the control scheme of classic Pokémon games an
 
 Please note that some controls may change or have additional functionalities based on the game's progression and events. Pay attention to in-game prompts and tutorials to learn about new actions or features as you play through Pokémon Oceanic Odyssey.
 ## Update Log
-* Demo v1.01 available (7/18/23)
+* ### Demo v1.01
+    * Available **(7/18/23)**
     * This demo includes the very first look into our game and the concept we are looking for. This concept includes navigating islands and interacting with a unique custom set of pokemon with diverse locations.
     * Playable up until Shadewoven forest
     * INSTRUCTIONS TO PLAY:
