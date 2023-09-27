@@ -1,5 +1,5 @@
 # Pokémon Oceanic Odyssey
-![OCEANIC](https://github.com/jjr113/Pokemon-Oceanic-Odyssey/assets/91906368/5760cf9b-3b64-461e-a090-9431ca30f999)
+![oceanicodyssey](https://github.com/jjr113/Pokemon-Oceanic-Odyssey/assets/91906368/3ff5ba5f-ddab-4975-8dad-951aa6ce5421)
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Concept](#concept)
